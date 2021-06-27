@@ -1,5 +1,3 @@
-![](https://github.com/rocketseat-education/nlw-06-discover/raw/main/.github/rocketq.png)
-
 # Rocket.q
 Aplicação desenvolvida na **6ª edição da Next Level Week** na trilha Discover (Rocketseat)
 
